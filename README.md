@@ -1,7 +1,9 @@
 # MIDI Piano Keyboard to Project Sekai Interfacer
 ![Program Screenshot](https://github.com/KarstSkarn/MIDI-Piano-Keyboard-Project-Sekai-Interfacer/blob/main/programscreenshot.png?raw=true "Program Screenshot")
 *By KarstSkarn - https://karstskarn.carrd.co*
+
 *If you liked it you can support me on https://ko-fi.com/karstskarn*
+
 *It motivates me for this and many other projects!*
 
 
