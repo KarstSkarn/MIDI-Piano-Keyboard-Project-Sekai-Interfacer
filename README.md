@@ -10,7 +10,7 @@ Contact Discord: https://discord.com/invite/d9rNwkerZw
 ## Description
 This tiny program allows to interface any MIDI device in order to play Project Sekai. 
 
-**Important: ** For this to work** you must** play PSekai on PC using Android emulation with Bluestacks. [Bluestacks Emulator Free Download](https://www.bluestacks.com "Bluestacks Emulator Free Download")
+**Important:** For this to work **you must** play PSekai on PC using Android emulation with Bluestacks. [Bluestacks Emulator Free Download](https://www.bluestacks.com "Bluestacks Emulator Free Download")
 
 This software is designed to **work exclusively** with a specific Bluestacks keyboard layout, which you can download here: [Bluestacks Keyboard Layout for Project Sekai ](https://github.com/KarstSkarn/Karst-PSekai-PC-Control-Scheme "Bluestacks Keyboard Layout for Project Sekai "). Depending on your keyboard’s layout or culture, you will need to adjust the keys both in the Bluestacks layout and in this software's configuration file (Configuration.xml). Make sure to map the keys to match your preferred setup. For reference, the default configuration provided is tailored to a Spanish-style keyboard.
 
@@ -39,4 +39,4 @@ As with Mode 1, all octaves function the same way—they are effectively looped.
 ## Installation
 This program is fully standalone and requires no installation. Simply execute it, and it will automatically detect all MIDI devices connected to your computer, allowing you to select one. From there, it will display all note events and their corresponding keys on the screen. While running, the program simulates computer keyboard key presses based on input from the MIDI device.
 
-**Tip: **To test if it's working, try using it with a program like Notepad. This will help you confirm that the keypress simulation is functioning correctly.
+**Tip:** To test if it's working, try using it with a program like Notepad. This will help you confirm that the keypress simulation is functioning correctly.
