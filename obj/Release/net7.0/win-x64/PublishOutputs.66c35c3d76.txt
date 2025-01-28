@@ -1,0 +1,2 @@
+E:\MIDISekaiGitHub\MIDI-Piano-Keyboard-Project-Sekai-Interfacer\bin\Release\net7.0\publish\win-x64\PianoSekai.pdb
+E:\MIDISekaiGitHub\MIDI-Piano-Keyboard-Project-Sekai-Interfacer\bin\Release\net7.0\publish\win-x64\PianoSekai.exe

@@ -1,0 +1,2 @@
+C:\Users\Falken\Documents\NKTSpaceGame\NKTServerSide\NKTCB\PianoSekai\bin\Release\net7.0\publish\win-x64\PianoSekai.pdb
+C:\Users\Falken\Documents\NKTSpaceGame\NKTServerSide\NKTCB\PianoSekai\bin\Release\net7.0\publish\win-x64\PianoSekai.exe

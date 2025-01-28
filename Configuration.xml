@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ConfigurationData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <keyCodes>				   <!-- MODE	1	2		-->
+    <VirtualKeyCode>VK_A</VirtualKeyCode>  <!--		C1	C1		-->
+    <VirtualKeyCode>VK_S</VirtualKeyCode>  <!--		C2	C1		-->
+    <VirtualKeyCode>VK_D</VirtualKeyCode>  <!--		C3	C1		-->
+    <VirtualKeyCode>VK_F</VirtualKeyCode>  <!--		C4	C2		-->
+    <VirtualKeyCode>VK_G</VirtualKeyCode>  <!--		C5	C2		-->
+    <VirtualKeyCode>VK_H</VirtualKeyCode>  <!--		C6	C3		-->
+    <VirtualKeyCode>VK_J</VirtualKeyCode>  <!--		C7	C3		-->
+    <VirtualKeyCode>VK_K</VirtualKeyCode>  <!--		C8	C4		-->
+    <VirtualKeyCode>VK_L</VirtualKeyCode>  <!--		C9	C4		-->
+    <VirtualKeyCode>OEM_3</VirtualKeyCode> <!--		C10	C5		-->
+    <VirtualKeyCode>OEM_7</VirtualKeyCode> <!--		C11	C5		-->
+    <VirtualKeyCode>OEM_2</VirtualKeyCode> <!--		C12	C6		-->
+    <VirtualKeyCode>SPACE</VirtualKeyCode> <!--		SLIDE	SLIDE		-->
+  </keyCodes>
+  <layoutMode>2</layoutMode>		   <!-- MODE SELECTOR			-->	
+  <pedalControllerIndex>64</pedalControllerIndex> <!-- PEDAL CONTROLLER INDEX		-->
+  <keyboardCutPoint>64</keyboardCutPoint>	  <!-- KEYBOARD KEY INDEX WHERE MODE 2 CUTS FROM LOWER CHANNELS TO UPPER CHANNELS		-->
+  <triggerPedalOnPush>true</triggerPedalOnPush>   <!-- TRIGGER THE SLIDE FUNCTION WHEN THE PEDAL IS PRESSED		-->
+  <triggerPedalOnRelease>true</triggerPedalOnRelease> <!-- TRIGGER THE SLIDE FUNCTION WHEN THE PEDAL IS RELEASED		-->
+</ConfigurationData>
